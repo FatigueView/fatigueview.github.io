@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfatigue_view=self.webpackChunkfatigue_view||[]).push([[36],{"./src/modules/Main/Main.less":(e,s,i)=>{i.r(s)}}]);

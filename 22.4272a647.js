@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfatigue_view=self.webpackChunkfatigue_view||[]).push([[22],{"./src/modules/Home/Highlights.less":(e,s,i)=>{i.r(s)}}]);
